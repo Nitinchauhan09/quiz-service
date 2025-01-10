@@ -35,5 +35,4 @@ The Quiz Service is a microservice application designed for managing quizzes. It
 ## Setup Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd quiz-service
+   git clone https://github.com/Nitinchauhan09/quiz-service.git
